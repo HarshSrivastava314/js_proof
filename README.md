@@ -10,4 +10,4 @@ Contract Details Variable declaration: nfts: An empty array to store the minted 
 
 loom video walkthrough 
 
-https://www.loom.com/share/83e769abf53b486d8274002282f86a90
+https://www.loom.com/share/0a6e2041d85b467dbaae8283d1c5d6d7
